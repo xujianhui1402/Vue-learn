@@ -2506,20 +2506,14 @@ TIP
 完成了本页的阅读后，回顾一下你刚才所学到的知识，如果还想知道更多细节，我们推荐你继续阅读关于组件的完整指引。⭐
 
 
-## TypeScript
+## TypeScript （见TS文件夹）
 
-### 搭配 TypeScript 使用 Vue
+### 搭配 TypeScript 使用 Vue （见TS文件夹）
 
-### TypeScript 与组合式 API
+### TypeScript 与组合式 API （见TS文件夹）
 
-### TypeScript 与选项式 API
+### TypeScript 与选项式 API （见TS文件夹）
 
-## 生产环境部署指南
-
-## 深入响应式系统
-
-## 使用 Vue 的多种方式
-
-## Proxy
+# Vue进阶
 
 🚀🌙❗⭐🎄
