@@ -1,5 +1,10 @@
 # 参考[Vue3 官方文档](https://staging-cn.vuejs.org/)
 
+## Vue 构建
+
+`npm create vue`   (vite)
+`vue create XXX`   (需要node、@vue/cli)
+
 ## 简介
 
 ### 什么是 Vue？ ⭐⭐⭐

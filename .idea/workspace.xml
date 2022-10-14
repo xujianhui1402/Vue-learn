@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a960ffa-8384-49ce-9a7f-014447728b0d" name="变更" comment="[update] JS">
-      <change afterPath="$PROJECT_DIR$/learn/Websocket/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn/Websocket/ws.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/JS/learnJS.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/JS/learnJS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/Vue3/vue.md" beforeDir="false" afterPath="$PROJECT_DIR$/learn/Vue3/vue.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664330324761</updated>
       <workItem from="1664330327749" duration="2378000" />
-      <workItem from="1665712601280" duration="1290000" />
+      <workItem from="1665712601280" duration="1949000" />
     </task>
     <task id="LOCAL-00001" summary="[update] JS">
       <created>1664330409758</created>
